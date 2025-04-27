@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.express as px
 
 # CONFIG
-API_KEY = '35774b60f2e3fe9bca6a3810cf52d1be'
+API_KEY = 'Enter your API KEY From OpenWeather'
 
 # ------------------------------
 # Function to fetch air quality data
